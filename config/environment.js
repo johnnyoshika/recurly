@@ -3,7 +3,7 @@
 module.exports = function (environment) {
     var ENV = {
         modulePrefix: 'recurly',
-        podModulePrefix: 'recurly/pods'
+        podModulePrefix: 'recurly/pods',
         environment: environment,
         baseURL: '/',
         locationType: 'auto',
